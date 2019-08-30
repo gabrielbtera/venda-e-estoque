@@ -13,7 +13,7 @@ public class CadastroDados {
 
 	public void ImprimeMenu() {
 		System.out.println();
-		System.out.println("BEM VINDO A LOJA SHOSTNERS CABLE");
+		System.out.println("BEM VINDO A LOJA SHOSTNERS Gabriel");
 		System.out.println("========================================================");
 		System.out.println("========================= MENU =========================");
 		System.out.println("========================================================");
